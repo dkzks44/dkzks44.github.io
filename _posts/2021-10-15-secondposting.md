@@ -1,7 +1,8 @@
 ---
 layout : single
 title:  "블로그 포스팅하는 방법!!"
-categories: Test1 Test2
+categories: 
+  - Test
 date: 2021-10-15
 last_modified_at: 2021-10-15
 ---
